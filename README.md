@@ -22,4 +22,6 @@ The goal is to explore trends, seasonality, and other data characteristics to cr
 - **Residual Diagnostic Plots:** Diagnostic plots are analyzed to ensure the quality of the models, including standardized residual plots, histograms, Q-Q plots, and correlogram plots.
 
 ## Project Preview :
-<img src="Images/Do not reject H0.png">
+<img src="Images/SEASONAL DECOMPOSITION (seasonal, trend, residual).png">
+<img src="Images/STATIONARITY TESTING - ADFULLER.png">
+<img src="Images/ACF and PACF .png">
